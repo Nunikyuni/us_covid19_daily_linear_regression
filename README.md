@@ -1,1 +1,1 @@
-# us_covid19_daily_linear_regression
+# us_covid19_daily_regression
